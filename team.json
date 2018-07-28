@@ -2,27 +2,32 @@
 
   {
       "name": "Auguste Rame",
-      "role": "CEO and Cofounder"
+      "role": "CEO and Cofounder",
+      "image": "https://avatars1.githubusercontent.com/u/19855629"
   },
   
   {
     "name": "Brian Zhou",
-    "role": "Cofounder"
+    "role": "Cofounder",
+    "image": "https://avatars1.githubusercontent.com/u/24846627"
   },
   
   {
     "name": "Brandon Reed",
-    "role": "Creative Director"
+    "role": "Creative Director",
+    "image": "https://cdn.discordapp.com/avatars/321763524822958082/6a0f36f4e17127495d77744acd840255.png"
   },
   
   {
     "name": "Kelvin Nguyen",
-    "role": "Multimedia Director"
+    "role": "Multimedia Director",
+    "image": "https://cdn.discordapp.com/avatars/292324095138463745/d1ad7999fce906331c3fcc80208ea247.png"
   },
   
   {
     "name": "Harrison Lin",
-    "role": "Graphic Designer"
+    "role": "Graphic Designer",
+    "image": "https://cdn.discordapp.com/avatars/325084027180679170/d52d3a41c4a7412039ea7f097a4a6a44.png?size=512"
   }
   
 ]
